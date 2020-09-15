@@ -8,7 +8,7 @@
 * Implemented one-hot encoding, label encoding, and standardization of data in order to fit dataset into classification models
 * Visualized accuracy score results for classification models to communicate and document results
 
-![](/Visualizations/marvel_viz1)
+![](Visualizations/marvel_viz1.png)
 
 # [Project 2: How Many Goals will be Scored?](https://github.com/taehyungkim1995/How-Many-Goals-will-be-Scored-/blob/master/README.md)
 
