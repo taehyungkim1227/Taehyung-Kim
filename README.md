@@ -9,6 +9,9 @@
 * Visualized accuracy score results for classification models to communicate and document results
 
 ![](Visualizations/marvel_viz1.png)
+![](Visualizations/marvel_viz2.png)
+![](Visualizations/marvel_viz3.png)
+![](Visualizations/marvel_viz4.png)
 
 # [Project 2: How Many Goals will be Scored?](https://github.com/taehyungkim1995/How-Many-Goals-will-be-Scored-/blob/master/README.md)
 
@@ -17,8 +20,16 @@
 * Utilized train/test split and k-fold cross validation methods to effectively test models and respond to potential overfitting issues 
 * Measured mean squared error values of each regression model to choose the most accurately predictive model 
 
+![](Visualizations/goals_viz1.png)
+![](Visualizations/goals_viz2.png)
+![](Visualizations/goals_viz3.png)
+![](Visualizations/goals_viz4.png)
+
 # [Project 3: How Are Main Player Attributes Related in FIFA?](https://github.com/taehyungkim1995/How-are-Main-Player-Attributes-Related-in-Fifa-)
 
 * Applied multiple linear regression to analyze how main player attributes are related to the overall player statistic in the video game FIFA 20
 * Analyzed the correlation coefficients between player statistics (e.g defending, passing, dribbling with overall) and visualized the distribution of the overall statistic 
 * Visualized results to how well the test data fit the predicted values and used metrics such as R-squared values, mean-squared error, and residual plot
+
+![](Visualizations/fifa_viz1.png)
+
