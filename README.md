@@ -1,5 +1,5 @@
 # Taehyung Kim Data Science Portfolio
-## Hello! My name is Taehyung and this is my Portfolio Github Page with some of my interesting Data Science projects.
+## Hello! My name is Taehyung and this is my Data Science Project Portfolio Page. Please click on the topics of each project to read more.
 
 # [Project 1: What is the Fate of Marvel Heroes?](https://github.com/taehyungkim1995/What-is-the-Fate-of-Marvel-Heroes-/blob/master/README.md)
 
