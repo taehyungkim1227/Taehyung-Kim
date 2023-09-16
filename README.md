@@ -13,7 +13,23 @@
 ![](Visualizations/marvel_viz3.png)
 ![](Visualizations/marvel_viz4.png)
 
-# [Project 2: How Many Goals will be Scored?](https://github.com/taehyungkim1995/How-Many-Goals-will-be-Scored-/blob/master/README.md)
+# [Project 2: Using Regression Methods to Predict and Estimate the Number of Goals Conceded](https://github.com/taehyungkim1227/Using-Regression-Methods-to-Predict-and-Estimate-the-Number-of-Goals-Conceded)
+
+*
+*
+*
+*
+
+
+# [Project 3: Using K Means Clustering to Analyze and Group Top European Football Teams](https://github.com/taehyungkim1227/Using-K-Means-Clustering-to-Analyze-and-Group-Top-European-Football-Teams)
+
+*
+*
+*
+*
+
+
+# [Project 4: How Many Goals will be Scored?](https://github.com/taehyungkim1995/How-Many-Goals-will-be-Scored-/blob/master/README.md)
 
 * Evaluated different regression methods to accurately predict the total number of goals scored in a soccer game for the Premier League and EFL Championship
 * Analyzed and visualized proportion of matches that results in wins, ties, and losses for home/away teams, distribution of goals per match, and correlation between betting odds
@@ -25,7 +41,7 @@
 ![](Visualizations/goals_viz3.png)
 ![](Visualizations/goals_viz4.png)
 
-# [Project 3: How Are Main Player Attributes Related in FIFA?](https://github.com/taehyungkim1995/How-are-Main-Player-Attributes-Related-in-Fifa-)
+# [Project 5: How Are Main Player Attributes Related in FIFA?](https://github.com/taehyungkim1995/How-are-Main-Player-Attributes-Related-in-Fifa-)
 
 * Applied multiple linear regression to analyze how main player attributes are related to the overall player statistic in the video game FIFA 20
 * Analyzed the correlation coefficients between player statistics (e.g defending, passing, dribbling with overall) and visualized the distribution of the overall statistic 
