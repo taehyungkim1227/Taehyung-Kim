@@ -1,5 +1,5 @@
 # Taehyung Kim Data Science Portfolio
-## Hello! My name is Taehyung and this is my Data Science Project Portfolio Page. Please click on the topics of each project to read more.
+## Welcome! My name is Taehyung and this is my Data Science Project Portfolio Page. Please click on the topics of each project to read more.
 
 # [Project 1: What is the Fate of Marvel Heroes?](https://github.com/taehyungkim1995/What-is-the-Fate-of-Marvel-Heroes-/blob/master/README.md)
 
@@ -17,7 +17,13 @@
 
 * Applied multiple linear regression, ridge regression, lasso regression, and polynomial regression in order to analyze how the number of goals conceded per game per team could be estimated
 * Performed exploratory analysis on correlation of each variable and how each variable is distributed (shots per game, shots on target per game, dribbles per game, number of times fouled per game)
-* Analyzed coefficients (OLS) and lambda values (ridge, lasso) for each model to dive deeper into each model performance 
+* Analyzed coefficients (OLS) and lambda values (ridge, lasso) for each model to dive deeper into each model performance
+
+![](Visualizations2/regression-viz1.png)
+![](Visualizations2/regression-viz2.png)
+![](Visualizations2/regression-viz3.png)
+![](Visualizations2/regression-viz4.png)
+![](Visualizations2/regression-viz5.png)
 
 
 # [Project 3: Using K Means Clustering to Analyze and Group Top European Football Teams](https://github.com/taehyungkim1227/Using-K-Means-Clustering-to-Analyze-and-Group-Top-European-Football-Teams)
@@ -25,6 +31,10 @@
 * Used K-means clustering to categorize soccer teams in Europe's top 3 domestic leagues
 * Analyzed the characteristics (play style and league performances) of each category based on number of shots per game and goals conceded per game
 * Visualized each cluster to gain a deeper understanding of each team and analyze team performances
+
+![](Visualizations2/clustering-viz1.png)
+![](Visualizations2/clustering-viz2.png)
+![](Visualizations2/clustering-viz3.png)
 
 
 # [Project 4: How Many Goals will be Scored?](https://github.com/taehyungkim1995/How-Many-Goals-will-be-Scored-/blob/master/README.md)
