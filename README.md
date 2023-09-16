@@ -15,18 +15,16 @@
 
 # [Project 2: Using Regression Methods to Predict and Estimate the Number of Goals Conceded](https://github.com/taehyungkim1227/Using-Regression-Methods-to-Predict-and-Estimate-the-Number-of-Goals-Conceded)
 
-*
-*
-*
-*
+* Applied multiple linear regression, ridge regression, lasso regression, and polynomial regression in order to analyze how the number of goals conceded per game per team could be estimated
+* Performed exploratory analysis on correlation of each variable and how each variable is distributed (shots per game, shots on target per game, dribbles per game, number of times fouled per game)
+* 
 
 
 # [Project 3: Using K Means Clustering to Analyze and Group Top European Football Teams](https://github.com/taehyungkim1227/Using-K-Means-Clustering-to-Analyze-and-Group-Top-European-Football-Teams)
 
-*
-*
-*
-*
+* Used K-means clustering to categorize soccer teams in Europe's top 3 domestic leagues
+* Analyzed the characteristics (play style and league performances) of each category based on number of shots per game and goals conceded per game
+* Visualized each cluster to gain a deeper understanding of each team and analyze team performances
 
 
 # [Project 4: How Many Goals will be Scored?](https://github.com/taehyungkim1995/How-Many-Goals-will-be-Scored-/blob/master/README.md)
