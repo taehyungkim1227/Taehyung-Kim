@@ -1,5 +1,7 @@
-# Taehyung Kim Data Science Portfolio
+# Taehyung Kim Data Science Portfolio (Korean: 김태형 데이터 사이언스 포트폴리오)
 ## Welcome! My name is Taehyung and this is my Data Science Project Portfolio Page. Please click on the topics of each project to read more.
+
+## (Korean) 제 데이터 사이언스 프로젝트 포트폴리오에 오신 것을 환영합니다! 제 이름은 김태형입니다. 각 토픽을 클릭하셔서 각 프로젝트에 대해서 더 읽어주시기 바랍니다!
 
 # [Project 1: What is the Fate of Marvel Heroes?](https://github.com/taehyungkim1995/What-is-the-Fate-of-Marvel-Heroes-/blob/master/README.md)
 
@@ -7,6 +9,13 @@
 * Analyzed different characteristics of Marvel Heroes, such as total number of appearances and identity by alignment
 * Implemented one-hot encoding, label encoding, and standardization of data in order to fit dataset into classification models
 * Visualized accuracy score results for classification models to communicate and document results
+
+* (Korean)
+# [프로젝트 1: 마블 히어로의 운명은 무엇인가?](https://github.com/taehyungkim1995/What-is-the-Fate-of-Marvel-Heroes-/blob/master/README.md)
+* Marvel Wiki 데이터셋을 활용하여, 마블 히어로가 생존하는지 혹은 사망하는지를 가장 정확하게 예측하기 위해 다양한 이진 분류 모델을 비교
+* 등장 횟수(total number of appearances)와 정체성(선/악 alignment) 등 마블 히어로의 다양한 특성을 분석
+* 분류 모델에 적합하도록 원-핫 인코딩, 레이블 인코딩, 데이터 표준화를 적용
+* 모델 성능을 효과적으로 전달하고 문서화하기 위해 정확도(accuracy) 결과를 시각화
 
 ![](Visualizations/marvel_viz1.png)
 ![](Visualizations/marvel_viz2.png)
