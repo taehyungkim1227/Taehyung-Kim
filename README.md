@@ -9,10 +9,10 @@
 * Visualized accuracy score results for classification models to communicate and document results
 
 [한글 요약]
-- 마블 히어로의 생존 여부를 예측하는 이진 분류 문제
-- 다양한 분류 모델(Logistic Regression 등)을 비교하여 성능 평가
-- 등장 횟수, alignment가 주요 변수로 작용
-- 분류 모델 비교 및 변수 중요도 해석 경험
+- 마블 히어로의 생존 여부를 예측하는 이진 분류 문제를 정의
+- 다양한 분류 모델(Logistic Regression, Random Forest 등)을 비교하여 모델 성능 평가 및 비교
+- 히어로 등장 횟수, alignment 등이 주요 변수로 작용하는 것을 발견
+- 분류 예측 모델 비교 및 변수 중요도 분석 등 경험
 
 ![](Visualizations/marvel_viz1.png)
 ![](Visualizations/marvel_viz2.png)
@@ -26,10 +26,10 @@
 * Analyzed coefficients (OLS) and lambda values (ridge, lasso) for each model to dive deeper into each model performance
 
 [한글 요약]
-- 축구 팀의 경기당 실점 수를 예측하는 회귀 문제
-- Linear / Ridge / Lasso / Polynomial Regression 모델 비교
+- 축구 팀의 경기당 실점 수를 예측하는 회귀 문제를 정의하였음
+- Linear / Ridge / Lasso / Polynomial Regression 등 다수 회귀 모델 성능 비교
 - 변수 간 상관관계 및 분포 분석을 통한 EDA 수행
-- 회귀 모델 성능 비교 및 정규화 기법 이해 경험
+- 회귀 모델 비교 및 과적합 방지를 위한 정규화 기법 (Ridge, Lasso 등) 적용 경험
 
 ![](Visualizations2/regression-viz1.png)
 ![](Visualizations2/regression-viz2.png)
@@ -45,10 +45,10 @@
 * Visualized each cluster to gain a deeper understanding of each team and analyze team performances
 
 [한글 요약]
-- 유럽 축구팀을 플레이 스타일 기반으로 그룹화하는 클러스터링 문제
+- 유럽 축구팀을 플레이 스타일 기반으로 그룹화하는 클러스터링 문제를 정의
 - K-means를 활용하여 팀들을 여러 군집으로 분류
-- 슈팅 수, 실점 수 등 경기 지표를 기반으로 클러스터 특성 분석
-- 비지도 학습 기반 세그멘테이션 및 군집 해석 경험
+- 팀별 총 슈팅 수, 실점 수 등 경기 지표를 기반으로 클러스터 특성 분석
+- 클러스터링 기반 데이터 그룹화 및 특성 분석 경험
 
 ![](Visualizations2/clustering-viz1.png)
 ![](Visualizations2/clustering-viz2.png)
@@ -63,10 +63,10 @@
 * Measured mean squared error values of each regression model to choose the most accurately predictive model
 
 [한글 요약]
-- 경기당 총 득점 수를 예측하는 회귀 문제
+- 경기당 총 득점수를 예측하는 회귀 문제 정의
 - 다양한 회귀 모델과 cross-validation을 통해 성능 비교
-- MSE를 기준으로 모델 평가 및 overfitting 대응
-- 모델 검증 및 일반화 성능 개선 경험
+- MSE를 기준으로 모델 평가 및 비교
+- 모델 검증 및 성능 개선 경험
 
 ![](Visualizations/goals_viz1.png)
 ![](Visualizations/goals_viz2.png)
