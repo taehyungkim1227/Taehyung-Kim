@@ -8,6 +8,7 @@
 * Implemented one-hot encoding, label encoding, and standardization of data in order to fit dataset into classification models
 * Visualized accuracy score results for classification models to communicate and document results
 
+[한글 요약]
 * Marvel Wiki 데이터셋을 활용하여, 마블 히어로가 생존하는지 혹은 사망하는지를 가장 정확하게 예측하기 위해 다양한 이진 분류 모델을 비교
 * 등장 횟수(total number of appearances)와 정체성(선/악 alignment) 등 마블 히어로의 다양한 특성을 분석
 * 분류 모델에 적합하도록 원-핫 인코딩, 레이블 인코딩, 데이터 표준화를 적용
