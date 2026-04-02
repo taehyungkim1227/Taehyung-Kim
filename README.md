@@ -9,10 +9,10 @@
 * Visualized accuracy score results for classification models to communicate and document results
 
 [한글 요약]
-* Marvel Wiki 데이터셋을 활용하여, 마블 히어로가 생존하는지 혹은 사망하는지를 가장 정확하게 예측하기 위해 다양한 이진 분류 모델을 비교
-* 등장 횟수(total number of appearances)와 정체성(선/악 alignment) 등 마블 히어로의 다양한 특성을 분석
-* 분류 모델에 적합하도록 원-핫 인코딩, 레이블 인코딩, 데이터 표준화를 적용
-* 모델 성능을 효과적으로 전달하고 문서화하기 위해 정확도(accuracy) 결과를 시각화
+- 마블 히어로의 생존 여부를 예측하는 이진 분류 문제
+- 다양한 분류 모델(Logistic Regression 등)을 비교하여 성능 평가
+- 등장 횟수, alignment가 주요 변수로 작용
+- → 분류 모델 비교 및 변수 중요도 해석 경험
 
 ![](Visualizations/marvel_viz1.png)
 ![](Visualizations/marvel_viz2.png)
