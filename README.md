@@ -1,6 +1,89 @@
 # Taehyung Kim Data Science Portfolio 
 ## Welcome! My name is Taehyung and this is my Data Science Project Portfolio Page. Please click on the topics of each project to read more.
 
+# Professional Projects (실무 프로젝트)
+
+Professional projects are presented without source code or proprietary metrics in compliance with NDA agreements. Focus is on methodology, impact, and technical approach.
+
+# Project 1. YouTube Shorts Performance Analysis
+
+Note: Implementation details are abstracted due to NDA
+
+* Defined the problem of unclear YouTube Shorts revenue contribution after Shorts monetization
+* Analyzed YouTube Shorts views and revenue using YouTube Analytics and BigQuery
+* Identified that Shorts contributed over 20% of total channel revenue
+* Achieved 14% growth in total number of views and 4% revenue increase through a Shorts-focused content strategy
+  
+[한글 요약]
+- Shorts 수익화 이후 수익 기여도 기준이 불명확한 문제 정의
+- YouTube Analytics 및 BigQuery 기반 Shorts 조회수 및 수익 분석
+- Shorts가 채널 전체 수익의 20% 이상 기여하는 구조 확인
+- Shorts 콘텐츠 생성 중심 전략으로 총 채널 조회수 14%, 총 채널 수익 4% 성장 
+
+# Project 2. Improving Merchandise Sales Performance with Engagement Data Analysis
+
+Note: Implementation details are abstracted due to NDA
+
+* Identified inefficiency in merchandise strategy that focuses on creators with the most views
+* As an alternative, collected and analyzed viewer engagement metrics involving likes and comments ratio per view
+* Found strong correlation between engagement metrics and merchandise sales performance
+* Developed viewer engagement based targeting strategy for creator merchandise sales
+* Reduced merchandise related costs by approximately $50,000 using the new engagement metric
+  
+[한글 요약]
+- 조회수 중심 크리에이터 굿즈 판매 전략의 비효율성 발견
+- 단순 조회수 대신 좋아요, 댓글 등을 사용한 Engagement 지표 개발
+- Engagement 지표와 크리에이터 굿즈 판매 성과 간 높은 상관관계 확인
+- Engagement 지표 기반 크리에이터 타기팅 전략 수립
+- 크리에이터 굿즈 판매 비용 약 $50,000 절감
+
+# Project 3. Funnel Analysis for Conversion Optimization 
+
+Note: Implementation details are abstracted due to NDA
+
+* Defined user funnel and analyzed user behavior for a major Korean online content service company using Google Analytics (buyer vs non-buyer user segmentation)
+* Identified key drop-offs: 24% at early payment stage, 14% at final payment stage
+* Derived user interface and checkout process improvements to reduce customer drop-off rates
+* Contributed to client retention with a contract renewal through data-driven insights
+  
+[한글 요약]
+- 전환 퍼널을을 통해 사용자 이탈 구간 분석
+- Google Analytics 기반 서비스 내 구매자/비구매자 행동 패턴 분석
+- 결제 전 단계 24%, 최종 결제 단계 14% 등 사용자 주요 이탈 구간 식별
+- 유저 인터페이스 및 결제 프로세스 개선 방향 도출
+- 데이터 기반 인사이트 제공으로 고객사 재계약 성사 
+
+# Project 4. Improving Loan Conversion with Funnel Analysis
+
+Note: Implementation details are abstracted due to NDA
+
+* Defined end-to-end loan application funnel using Google Analytics for a major financial loan service company in Korea
+* Identified major user drop-offs such as 70% at the initial page and low overall conversion of 6~7% of total users
+* Analyzed user flow and discovered bottlenecks across key steps such as input stages and authentication stages
+* Proposed UX and process improvements to optimize user conversion
+
+[한글 요약]
+- Google Analytics 기반 대출 신청 전환 퍼널 정의 및 분석
+- 초기 단계 70% 고객 이탈률 및 전체 전환율 약 6~7% 수준 문제 식별
+- 본인 인증 및 정보 입력 단계 등 주요 병목 구간 분석
+- UX 개선 및 프로세스 간소화를 통한 전환율 개선 방향 도출
+
+# Project 5. Bitcoin Price Prediction using Time Series Models
+
+Note: Implementation details are abstracted due to NDA
+* Built a time series model to predict short-term Bitcoin prices using historical data
+* Applied LSTM and NeuralProphet time series models using Bitcoin closing price
+* Evaluated time series model performance using RMSE, MAE, MAPE 
+* Achieved improved short-term prediction performance with deep learning models
+
+[한글 요약]
+- 과거 비트코인 가격 데이터를 기반으로 단기 가격 예측 모델 구축
+- LSTM/Neural Prophet 모델 등 적용하여 비트코인 단기 종가 예측 
+- RMSE, MAE, MAPE 등 시계열 모델 성능 평가 지표 이용
+- 딥러닝 모델이 단기 가격 예측에서 더 성능이 높은 경향을 보임
+
+# Personal Projects (개인 프로젝트) --------------------------------------------------------------------------
+
 # [Project 1: What is the Fate of Marvel Heroes?](https://github.com/taehyungkim1995/What-is-the-Fate-of-Marvel-Heroes-/blob/master/README.md)
 
 * Compared different binary classification methods to most accurately predict whether Marvel Heroes live or meet their demise using Marvel Wiki Dataset
