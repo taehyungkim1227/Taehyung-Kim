@@ -23,22 +23,24 @@ Note: Implementation details are abstracted due to NDA
 ![](Visualizations/Pro_Project_1_Image_1.png)
 ![](Visualizations/Pro_Project_1_Image_2.png)
 
-# Project 2. Improving Merchandise Sales Performance with Engagement Data Analysis
+# Project 2. Improving Loan Conversion with Funnel Analysis
 
 Note: Implementation details are abstracted due to NDA
 
-* Identified inefficiency in merchandise strategy that focuses on creators with the most views
-* As an alternative, collected and analyzed viewer engagement metrics involving likes and comments ratio per view
-* Found strong correlation between engagement metrics and merchandise sales performance
-* Developed viewer engagement based targeting strategy for creator merchandise sales
-* Reduced merchandise related costs by approximately $50,000 using the new engagement metric
-  
+* Defined end-to-end loan application funnel using Google Analytics for a major financial loan service company in Korea
+* Identified major user drop-offs such as 70% at the initial page and low overall conversion of 6~7% of total users
+* Analyzed user flow and discovered bottlenecks across key steps such as input stages and authentication stages
+* Proposed UX and process improvements to optimize user conversion
+
 [한글 요약]
-- 조회수 중심 크리에이터 굿즈 판매 전략의 비효율성 발견
-- 단순 조회수 대신 좋아요, 댓글 등을 사용한 Engagement 지표 개발
-- Engagement 지표와 크리에이터 굿즈 판매 성과 간 높은 상관관계 확인
-- Engagement 지표 기반 크리에이터 타기팅 전략 수립
-- 크리에이터 굿즈 판매 비용 약 $50,000 절감
+- Google Analytics 기반 대출 신청 전환 퍼널 정의 및 분석
+- 초기 단계 70% 고객 이탈률 및 전체 전환율 약 6~7% 수준 문제 식별
+- 본인 인증 및 정보 입력 단계 등 주요 병목 구간 분석
+- UX 개선 및 프로세스 간소화를 통한 전환율 개선 방향 도출
+
+![](Visualizations/Pro_Project_2_Image_1.png)
+![](Visualizations/Pro_Project_2_Image_2.png)
+![](Visualizations/Pro_Project_2_Image_3.png)
 
 # Project 3. Funnel Analysis for Conversion Optimization 
 
@@ -54,22 +56,27 @@ Note: Implementation details are abstracted due to NDA
 - Google Analytics 기반 서비스 내 구매자/비구매자 행동 패턴 분석
 - 결제 전 단계 24%, 최종 결제 단계 14% 등 사용자 주요 이탈 구간 식별
 - 유저 인터페이스 및 결제 프로세스 개선 방향 도출
-- 데이터 기반 인사이트 제공으로 고객사 재계약 성사 
+- 데이터 기반 인사이트 제공으로 고객사 재계약 성사
 
-# Project 4. Improving Loan Conversion with Funnel Analysis
+![](Visualizations/Pro_Project_3_Image_1.png)
+![](Visualizations/Pro_Project_3_Image_2.png)
+
+# Project 4. Improving Merchandise Sales Performance with Engagement Data Analysis
 
 Note: Implementation details are abstracted due to NDA
 
-* Defined end-to-end loan application funnel using Google Analytics for a major financial loan service company in Korea
-* Identified major user drop-offs such as 70% at the initial page and low overall conversion of 6~7% of total users
-* Analyzed user flow and discovered bottlenecks across key steps such as input stages and authentication stages
-* Proposed UX and process improvements to optimize user conversion
-
+* Identified inefficiency in merchandise strategy that focuses on creators with the most views
+* As an alternative, collected and analyzed viewer engagement metrics involving likes and comments ratio per view
+* Found strong correlation between engagement metrics and merchandise sales performance
+* Developed viewer engagement based targeting strategy for creator merchandise sales
+* Reduced merchandise related costs by approximately $50,000 using the new engagement metric
+  
 [한글 요약]
-- Google Analytics 기반 대출 신청 전환 퍼널 정의 및 분석
-- 초기 단계 70% 고객 이탈률 및 전체 전환율 약 6~7% 수준 문제 식별
-- 본인 인증 및 정보 입력 단계 등 주요 병목 구간 분석
-- UX 개선 및 프로세스 간소화를 통한 전환율 개선 방향 도출
+- 조회수 중심 크리에이터 굿즈 판매 전략의 비효율성 발견
+- 단순 조회수 대신 좋아요, 댓글 등을 사용한 Engagement 지표 개발
+- Engagement 지표와 크리에이터 굿즈 판매 성과 간 높은 상관관계 확인
+- Engagement 지표 기반 크리에이터 타기팅 전략 수립
+- 크리에이터 굿즈 판매 비용 약 $50,000 절감
 
 # Project 5. Bitcoin Price Prediction using Time Series Models
 
