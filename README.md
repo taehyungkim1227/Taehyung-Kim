@@ -1,7 +1,7 @@
 # Taehyung Kim Data Science Portfolio 
 ## Welcome! My name is Taehyung and this is my Data Science Project Portfolio Page. Please click on the topics of each project to read more.
 
-# Professional Projects (실무 프로젝트)
+# Part 1. Professional Projects (실무 프로젝트)
 
 Professional projects are presented without source code or proprietary metrics in compliance with NDA agreements. Focus is on methodology, impact, and technical approach.
 
@@ -82,7 +82,7 @@ Note: Implementation details are abstracted due to NDA
 - RMSE, MAE, MAPE 등 시계열 모델 성능 평가 지표 이용
 - 딥러닝 모델이 단기 가격 예측에서 더 성능이 높은 경향을 보임
 
-# Personal Projects (개인 프로젝트) --------------------------------------------------------------------------
+# Part 2. Personal Projects (개인 프로젝트) 
 
 # [Project 1: What is the Fate of Marvel Heroes?](https://github.com/taehyungkim1995/What-is-the-Fate-of-Marvel-Heroes-/blob/master/README.md)
 
