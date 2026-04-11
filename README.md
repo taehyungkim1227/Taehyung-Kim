@@ -18,7 +18,10 @@ Note: Implementation details are abstracted due to NDA
 - Shorts 수익화 이후 수익 기여도 기준이 불명확한 문제 정의
 - YouTube Analytics 및 BigQuery 기반 Shorts 조회수 및 수익 분석
 - Shorts가 채널 전체 수익의 20% 이상 기여하는 구조 확인
-- Shorts 콘텐츠 생성 중심 전략으로 총 채널 조회수 14%, 총 채널 수익 4% 성장 
+- Shorts 콘텐츠 생성 중심 전략으로 총 채널 조회수 14%, 총 채널 수익 4% 성장
+
+![](Visualizations/Pro_Project_1_Image_1.png)
+![](Visualizations/Pro_Project_1_Image_2.png)
 
 # Project 2. Improving Merchandise Sales Performance with Engagement Data Analysis
 
