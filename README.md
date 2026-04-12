@@ -1,6 +1,22 @@
 # Taehyung Kim Data Science Portfolio 
 ## Welcome! My name is Taehyung and this is my Data Science Project Portfolio. For the Personal Projects, please click on the topics of each project to read more.
 
+## Table of Contents
+
+- [Part 1. Professional Projects (실무 프로젝트)](#part-1-professional-projects-실무-프로젝트)
+  - [Project 1. YouTube Shorts Performance Analysis](#project-1-youtube-shorts-performance-analysis)
+  - [Project 2. Funnel Analysis for Conversion Optimization](#project-2-funnel-analysis-for-conversion-optimization)
+  - [Project 3. Improving Loan Conversion with Funnel Analysis](#project-3-improving-loan-conversion-with-funnel-analysis)
+  - [Project 4. Improving Merchandise Sales Performance with Engagement Data Analysis](#project-4-improving-merchandise-sales-performance-with-engagement-data-analysis)
+  - [Project 5. Bitcoin Price Prediction using Time Series Models](#project-5-bitcoin-price-prediction-using-time-series-models)
+
+- [Part 2. Personal Projects (개인 프로젝트)](#part-2-personal-projects-개인-프로젝트)
+  - [Project 1: What is the Fate of Marvel Heroes?](#project-1-what-is-the-fate-of-marvel-heroes)
+  - [Project 2: Using Regression Methods to Predict and Estimate the Number of Goals Conceded](#project-2-using-regression-methods-to-predict-and-estimate-the-number-of-goals-conceded)
+  - [Project 3: Using K Means Clustering to Analyze and Group Top European Football Teams](#project-3-using-k-means-clustering-to-analyze-and-group-top-european-football-teams)
+  - [Project 4: How Many Goals will be Scored?](#project-4-how-many-goals-will-be-scored)
+  - [Project 5: How Are Main Player Attributes Related in FIFA?](#project-5-how-are-main-player-attributes-related-in-fifa)
+
 # Part 1. Professional Projects (실무 프로젝트)
 
 Professional projects are presented without source code or proprietary metrics in compliance with NDA agreements. Focus is on methodology, impact, and technical approach.
