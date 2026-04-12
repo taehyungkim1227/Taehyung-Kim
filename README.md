@@ -50,12 +50,14 @@ Note: Implementation details are abstracted due to NDA
 * Identified major user drop-offs such as 70% at the initial page and low overall conversion of 6~7% of total users
 * Analyzed user flow and discovered bottlenecks across key steps such as input stages and authentication stages
 * Proposed UX and process improvements to optimize user conversion
+* Developed Looker Studio dashboards to analyze user behavior, providing actionable insights for service optimization
 
 [한글 요약]
 - Google Analytics 기반 대출 신청 전환 퍼널 정의 및 분석
 - 초기 단계 70% 고객 이탈률 및 전체 전환율 약 6~7% 수준 문제 식별
 - 본인 인증 및 정보 입력 단계 등 주요 병목 구간 분석
 - UX 개선 및 프로세스 간소화를 통한 전환율 개선 방향 도출
+- 사용자 행동 분석을 위한 Looker Studio 대시보드 구축 및 서비스 최적화 인사이트 도출
 
 ![](Visualizations/Pro_Project_2_Image_1.png)
 ![](Visualizations/Pro_Project_2_Image_2.png)
