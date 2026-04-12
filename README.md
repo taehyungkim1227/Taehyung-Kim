@@ -41,7 +41,6 @@ Note: Implementation details are abstracted due to NDA
 ![](Visualizations/Pro_Project_2_Image_1.png)
 ![](Visualizations/Pro_Project_2_Image_2.png)
 ![](Visualizations/Pro_Project_2_Image_3.png)
-![](Visualizations/Pro_Project_2_Image_4.png)
 
 # Project 3. Funnel Analysis for Conversion Optimization 
 
