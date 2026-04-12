@@ -97,7 +97,6 @@ Note: Implementation details are abstracted due to NDA
 - 크리에이터 굿즈 판매 비용 약 $50,000 절감
 
 ![](Visualizations/Pro_Project_4_Image_1.png)
-![](Visualizations/Pro_Project_4_Image_2.png)
 
 # Project 5. Bitcoin Price Prediction using Time Series Models
 
