@@ -96,6 +96,9 @@ Note: Implementation details are abstracted due to NDA
 - Engagement 지표 기반 크리에이터 타기팅 전략 수립
 - 크리에이터 굿즈 판매 비용 약 $50,000 절감
 
+![](Visualizations/Pro_Project_4_Image_1.png)
+![](Visualizations/Pro_Project_4_Image_2.png)
+
 # Project 5. Bitcoin Price Prediction using Time Series Models
 
 Note: Implementation details are abstracted due to NDA
