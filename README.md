@@ -60,7 +60,7 @@ Note: Implementation details are abstracted due to NDA
 
 # Project 3. Improving Loan Conversion with Funnel Analysis
 
-Note: Implementation details are abstracted due to NDA
+Note: Implementation details are abstracted due to NDA. This funnel uses synthetic data due to data sensitivity and NDA restrictions.
 
 * Defined end-to-end loan application funnel using Google Analytics for a major financial loan service company in Korea
 * Identified major user drop-offs such as 70% at the initial page and low overall conversion of 6~7% of total users
