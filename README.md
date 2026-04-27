@@ -41,7 +41,7 @@ Note: Implementation details are abstracted due to NDA
 
 # Project 2. Funnel Analysis for Conversion Optimization 
 
-Note: Implementation details are abstracted due to NDA
+Note: Implementation details are abstracted due to NDA. These funnels use synthetic data due to data sensitivity and NDA restrictions.
 
 * Defined user funnel and analyzed user behavior for a major Korean online content service company using Google Analytics (buyer vs non-buyer user segmentation)
 * Identified key drop-offs: 24% at early payment stage, 14% at final payment stage
